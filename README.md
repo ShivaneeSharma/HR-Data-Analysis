@@ -23,6 +23,7 @@ To build a dynamic dashboard that enables:
 
 *  **Dataset:** <a href = "https://docs.google.com/spreadsheets/d/1SgEDpfB73x-W1-OIDgTulZvqLzcR7-ED/edit?usp=sharing&ouid=108298115615242476978&rtpof=true&sd=true">Excel File</a>
 *  **Dashboard:** <a href = "https://drive.google.com/file/d/1xFroYik0V-hIWWIQOhOe5kNcmGu3jbta/view?usp=sharing">Power BI File</a>
+* **Image:** <a href= "">Dashboard</a>
 
 ## Tech Stack
 | Tool              | Purpose                               |
