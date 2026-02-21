@@ -20,7 +20,6 @@ To build a dynamic dashboard that enables:
 * Identification of Growth Opportunities
 
 ## Project Files
-
 *  **Dataset:** <a href = "https://docs.google.com/spreadsheets/d/1SgEDpfB73x-W1-OIDgTulZvqLzcR7-ED/edit?usp=sharing&ouid=108298115615242476978&rtpof=true&sd=true">Excel File</a>
 *  **Dashboard:** <a href = "https://drive.google.com/file/d/1xFroYik0V-hIWWIQOhOe5kNcmGu3jbta/view?usp=sharing">Power BI File</a>
 * **Image:** <a href= "https://github.com/ShivaneeSharma/HR-Data-Analysis/blob/main/Power%20BI.png">Dashboard</a>
@@ -66,10 +65,8 @@ To build a dynamic dashboard that enables:
 * KPI Development
 * Problem Solving
   
-## Why This Project Stands Out (For Recruiters)
-
+## Why This Project Stands Out
 This project showcases my ability to:
-
 * Transform raw data into meaningful business insights
 * Design professional executive dashboards
 * Apply DAX for advanced KPI calculations
